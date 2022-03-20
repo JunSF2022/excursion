@@ -11,7 +11,21 @@ h1 {
 
 }
 
+h2 {
+    font-size: 42px;
+    color: white;
+    font-weight: normal;
+
+}
+
+h4 {
+    font-size: 26px;
+    color: white;
+    font-weight: normal;
+
+}
+
 .sub {
     font-size: 16px;
-    color:aquamarine;
+    color:rgb(156, 211, 193);
 }
